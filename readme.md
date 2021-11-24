@@ -1,4 +1,3 @@
-♻️ NodeJS e API
 
 ### 1. NodeJS API REST
 
